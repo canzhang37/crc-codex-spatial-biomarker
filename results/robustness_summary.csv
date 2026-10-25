@@ -1,0 +1,15 @@
+,value
+share_p_below_0.05,0.5035
+beta_2.5,-1.015207125719812
+beta_97.5,-0.09658336656885565
+icc_spot_log_freq,0.13412036683155654
+spots_with_cn9,65.0
+spots,72.0
+loo_max_p,0.014071818390095957
+loo_n_above_0.05,0.0
+wy_p_paper_feature,0.23777622237776222
+holm_p_paper_feature,0.3141197916991061
+rank_paper_feature,1.0
+cut_naive_p,5.549707751515129e-05
+cut_adjusted_p,0.011498850114988501
+cut_value_log,-6.023799927750918

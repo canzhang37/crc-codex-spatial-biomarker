@@ -1,0 +1,4 @@
+beta -0.8995  se 0.3245  wald p 0.0056  LR p 0.0044
+       chisq df    p
+x      0.727  1 0.39
+GLOBAL 0.727  1 0.39
